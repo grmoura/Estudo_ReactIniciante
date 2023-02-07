@@ -1,9 +1,9 @@
-function ComponenteTeste() {
+
+
+export default function ComponenteTeste() {
   return (
     <>
-      <h1>meu primeiro componente</h1>
+      <h1>TEstes de compontentes</h1>
     </>
   );
 }
-
-export default ComponenteTeste;
